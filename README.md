@@ -1,0 +1,2 @@
+# hugoextended
+hugo static website
